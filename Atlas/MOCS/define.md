@@ -1,1 +1,1 @@
-help gather developp, navigae ideas ,  contain mocs , dashbards , ooverview logs,  and data scopes 
+help gather develop, navigate ideas ,  contain mocs , dashboards , overview logs,  and data scopes 
