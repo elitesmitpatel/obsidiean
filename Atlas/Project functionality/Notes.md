@@ -1,0 +1,3 @@
+- handwrititng ka sample do mei kaam kar duga.
+- 3 layer of depth scope jjaise , zoom in zoom out 
+- learning form different type of style, do if possible .
